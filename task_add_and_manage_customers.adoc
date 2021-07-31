@@ -1,0 +1,104 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_add_and_manage_customers.html 
+keywords: saas backup, partner central, microsoft 365, customer, customers, add, manage, delete 
+summary: 您可以在 SaaS Backup Partner Central 中添加和管理客户。 
+---
+= 添加，删除和管理客户
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以在 SaaS Backup Partner Central 中添加和删除客户。要管理客户数据，您需要使用 SaaS Backup for Microsoft 365 用户界面。
+
+如果要将 SaaS Backup for Microsoft 365 中的现有租户添加到合作伙伴中心，请通过 saasbackupsupport@netapp.com 联系 SaaS Backup 支持部门。
+
+
+
+== 添加客户
+
+.步骤
+. 在信息板中，单击左侧的 * 客户 * 。
++
+image:dashboard_customer_view.png["信息板客户视图"]
+
+. 在 * 客户列表 * 屏幕上，单击 image:add_customer_icon.png["添加客户图标"] 添加新客户。
++
+image:add_customer_screen.png["添加客户屏幕"]
+
+. 在弹出窗口中，单击 Office 365 图标以创建新的客户订阅。
+. 输入 Microsoft 365 全局管理员服务帐户的电子邮件地址和密码，然后单击 * 登录 * 。
+. 此时将显示 SaaS Backup for Microsoft 365 请求的权限列表。单击 * 接受 * 。
+. 返回 Partner Central ，单击 image:add_icon.png["添加图标"] 在 * 客户列表 * 中的 * 操作 * 下完成 * 客户注册 * 。
++
+image:complete_customer_signup.png["单击添加图标完成客户注册"]
+
+. 输入请求的用户信息。
++
+image:complete_customer_signup_window.png["完成客户注册"]
+
++
+** 选择订阅类型：
++
+*** 如果是试用订阅，请输入激活代码。
+*** 如果此订阅为许可订阅，请输入您的 NetApp SSO 和产品序列号。
+
+
+** 在 * 存储选择 * 下选择您的存储。
++
+如果您使用的是 SaaS Backup 提供的存储：
+
++
+... 单击 * SaaS Backup 提供的存储 * 。
+... 选择 * Amazon S3* 或 * Azure Blob * 存储选项。
+... 为备份选择 * AWS S3* 或 * Azure Blob * 区域。您应选择与要备份的数据的物理位置最接近的区域。
+
+
+
+
+. 单击 * 创建 * 。右侧将显示状态更新，显示 "Customer Sign up in-progress" 。 状态更新完成后，状态将更改为 " 客户注册已完成 " ，状态将变为 " 活动 " 。
+
+
+
+
+== 删除客户
+
+.步骤
+. 在信息板中，单击左侧的 * 客户 * 。
++
+image:dashboard_customer_view.png["信息板客户视图"]
+
+. 在客户列表中找到要删除的客户。单击 image:delete_icon_red.png["删除图标"] 删除客户。
++
+image:delete_customer.png["删除客户"]
+
+
+
+
+
+== 管理客户数据
+
+添加新客户后，您可以从 Partner Central 的信息板查看客户详细信息，例如客户名称，状态和作业总数。
+
+image:dashboard_customers_view.png["信息板客户视图"]
+
+要管理客户数据，您需要使用 SaaS Backup for Microsoft 365 用户界面。
+
+.步骤
+. 单击 image:return_icon.png["返回图标"] 重定向到 SaaS Backup for Microsoft 365 用户界面以管理客户数据。
++
+image:redirect_customer_saasbackup.png["重定向到 SaaS Backup for Microsoft 365"]
+
++
+要返回合作伙伴中心，请单击 SaaS Backup for Microsoft 365 用户界面左侧客户名称下的 * 合作伙伴中心 * 。
+
++
+image:return_partner_central.png["返回合作伙伴中心"]
+
+
+
+有关如何使用 SaaS Backup for Microsoft 365 的信息，请访问 link:https://docs.netapp.com/us-en/saasbackupO365["NetApp SaaS Backup for Microsoft 365 联机文档"]。

@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_roles.html 
+keywords: saas backup, partner central, role management, manage, role, roles 
+summary: 您可以在 SaaS Backup Partner Central 中修改，添加和分配不同的用户角色。 
+---
+= 管理角色
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在 SaaS Backup Partner Central 中，您可以修改，添加和分配不同的用户角色。
+
+* 角色管理 * 中的默认电子邮件为合作伙伴电子邮件。
+
+.步骤
+. 在信息板中，单击 image:settings_icon.png["设置图标"]。
+. 从下拉菜单中选择 * 角色管理 * 。
++
+image:settings_role_management.png["设置下拉菜单选择角色管理"]
+
+. 在 * 角色管理 * 中，您可以添加，修改和删除角色。
++
+image:role_management_screen.png["角色管理屏幕"]
+
+. 要添加用户，请单击 image:add_notification_icon.png["添加图标"]。
++
+在 * 添加用户 * 中，输入请求的信息。
+
++
+image:add_user_role_management.png["添加用户角色管理屏幕"]
+
++
+.. 选择用户的角色。
++
+*** * 全球合作伙伴管理员 * ：可以创建其他全球合作伙伴并完全控制所有角色。
+*** * 完全管理员 * ：完全控制除全球合作伙伴之外的所有角色。
+*** * 配置管理 * ：可以添加和删除客户。
+
+
+
+
+. 要修改用户的角色，请单击 image:pencil_icon.png["铅笔图标"]。
+. 要删除用户，请单击 image:delete_icon_blue.png["删除图标"]。
+

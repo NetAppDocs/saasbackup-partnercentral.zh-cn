@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_generate_reports.html 
+keywords: saas backup, partner central, generate, reports, 
+summary: 在 Partner Central 中，您可以生成许可证使用情况，存储使用情况，作业统计信息，活动，审核， 和续订。 
+---
+= 生成报告
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在 SaaS Backup Partner Central 中，您可以生成许可证使用情况，存储使用情况，作业统计信息，活动，审核， 和续订。
+
+.步骤
+. 在信息板中，单击左侧的 * 报告 * 。
++
+image:reports_page.png["报告页面"]
+
+. 选择要为其生成报告的类别。
++
+** * 许可证使用量 *
+** * 存储使用量 *
+** * 作业统计信息 *
+** * 活动报告 *
+** * 审核报告 *
+** * 续订报告 *
+
+
+. 单击类别下的 * 生成 * 。报告以 CSV 格式生成。
+

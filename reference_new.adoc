@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_new.html 
+keywords: what's new, features, new, release notes, enhancements 
+summary: SaaS Backup Partner Central 会定期推出新版本，为您提供新功能，增强功能和错误修复。 
+---
+= 新增功能和更新
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+此版本的 NetApp SaaS Backup Partner Central 增加了以下新功能和更新。
+
+转到 Partner Central 信息板中的 * 新增功能 * 视图，查看有关新更新，操作说明视频以及服务运行状况信息的动态。
+
+image:whats_new.png["新增功能"]

@@ -1,0 +1,56 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_monitor.html 
+keywords: saas backup, partner central, microsoft 365, monitor, backup, sync, restore, jobs 
+summary: 您可以在 SaaS Backup Partner Central 中监控适用于 Microsoft 365 的 SaaS Backup 备份，同步和还原客户作业。 
+---
+= 监控客户作业
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以在 SaaS Backup Partner Central 中监控 SaaS Backup for Microsoft 365 客户的备份，同步和还原作业。
+
+.步骤
+. 在信息板中，单击 * 监控 * 。
++
+image:monitoring.png["监控页面"]
+
++
+在 * 监控 * 中，您可以在两个单独的选项卡中查看客户的作业历史记录： * 正在运行的作业 * 和 * 已完成的作业 * 。
+
+. 您可以按作业类型，服务类型，域名和状态筛选 * 正在运行的作业 * 和 * 已完成的作业 * 。
++
+.. 要按作业类型进行筛选，请单击 * 作业类型 * 下的 * 筛选器 * ，然后选择作业类型。
++
+image:filter_job_type.png["按作业类型筛选"]
+
++
+* 现在 * 作业类型是指按需作业。
+
+.. 要按服务类型进行筛选，请单击 * 服务类型 * 下的 * 筛选器 * ，然后选择服务。
++
+选择服务：
+
++
+*** Exchange Online
+*** OneDrive for Business
+*** SharePoint Online
+*** Office 365 组
+
+
+.. 要按客户进行筛选，请单击 * 域名 * 下的 * 筛选器 * ，然后选择或搜索客户域。
++
+image:filter_customer_domain.png["按客户域筛选"]
+
+.. 要按状态进行筛选，请单击 * 状态 * 下的 * 筛选器 * ，然后选择状态。
++
+image:filter_job_status.png["按作业状态筛选"]
+
+
+
+
