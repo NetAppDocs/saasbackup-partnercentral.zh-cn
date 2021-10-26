@@ -1,5 +1,13 @@
+---
+settings:
+  name: SaaS Backup For Partner Central
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: true
+    langs: zh-cn,us-en,ja-jp
 sidebar:
-  
   entries:
   - title: 合作伙伴中心
     entries:
