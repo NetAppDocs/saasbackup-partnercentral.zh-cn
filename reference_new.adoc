@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: partnercentral_reference_new.html 
-keywords: what's new, features, new, release notes, enhancements 
+keywords: 'what"s new, features, new, release notes, enhancements' 
 summary: SaaS Backup Partner Central 会定期推出新版本，为您提供新功能，增强功能和错误修复。 
 ---
 = 新增功能和更新
