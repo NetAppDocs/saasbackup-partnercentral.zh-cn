@@ -6,6 +6,7 @@ summary: 在 SaaS Backup Partner Central 中， * 统计信息 * 屏幕显示多
 ---
 = 统计信息
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

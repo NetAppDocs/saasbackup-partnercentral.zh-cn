@@ -6,6 +6,7 @@ summary: 您可以在 Partner Central 中添加和管理密钥以增强安全性
 ---
 = 管理密钥
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: 您可以注册为合作伙伴，然后在 Partner Central 界面中开
 ---
 = 注册 NetApp SaaS Backup Partner Central
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

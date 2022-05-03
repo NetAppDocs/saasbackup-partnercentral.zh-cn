@@ -6,6 +6,7 @@ summary: 您可以在 SaaS Backup Partner Central 中修改，添加和分配不
 ---
 = 管理角色
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

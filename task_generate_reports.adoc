@@ -6,6 +6,7 @@ summary: 在 Partner Central 中，您可以生成许可证使用情况，存储
 ---
 = 生成报告
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

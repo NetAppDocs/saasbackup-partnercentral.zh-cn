@@ -5,6 +5,7 @@ summary: 欢迎访问 NetApp SaaS Backup for Partner Central 文档门户。
 ---
 = NetApp SaaS Backup Partner Central 文档
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

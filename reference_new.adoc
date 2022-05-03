@@ -6,6 +6,7 @@ summary: SaaS Backup Partner Central 会定期推出新版本，为您提供新�
 ---
 = 新增功能和更新
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: 您可以在 SaaS Backup Partner Central 中添加和管理客户。
 ---
 = 添加，删除和管理客户
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

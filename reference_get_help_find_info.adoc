@@ -6,6 +6,7 @@ summary: 您可以在 NetApp SaaS Backup Partner Central 界面中获得帮助�
 ---
 = 从何处获取帮助和查找更多信息
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

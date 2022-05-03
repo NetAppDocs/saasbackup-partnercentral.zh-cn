@@ -6,6 +6,7 @@ summary: 已知问题和限制的列表。
 ---
 = 已知问题和限制
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

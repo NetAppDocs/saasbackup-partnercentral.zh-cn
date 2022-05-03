@@ -6,6 +6,7 @@ summary: 您可以在 SaaS Backup Partner Central 中监控适用于 Microsoft 3
 ---
 = 监控客户作业
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
