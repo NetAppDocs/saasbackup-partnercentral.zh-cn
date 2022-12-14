@@ -17,7 +17,7 @@ NetApp SaaS Backup Partner Central 是一个界面，可帮助 NetApp 合作伙�
 
 
 
-== 了解新功能
+== 了解新增功能
 
 * link:partnercentral_reference_new.html["发行说明"]
 * 有关产品更新，操作说明视频以及有关服务运行状况的信息，请转到 * 新增功能 * 信息板视图。
