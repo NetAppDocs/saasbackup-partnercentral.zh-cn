@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: partnercentral_task_manage_keys.html 
-keywords: saas backup, partner central, key management, manage, key, keys, add, download, PowerShell 
-summary: 您可以在 Partner Central 中添加和管理密钥以增强安全性。您还可以找到对 PowerShell cmdlet 界面的支持。 
+keywords: saas backup, partner central, key management, manage, key, keys, add, download, 
+summary: 您可以在 Partner Central 中添加和管理密钥以增强安全性。 
 ---
 = 管理密钥
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: 您可以在 Partner Central 中添加和管理密钥以增强安全性
 
 
 [role="lead"]
-您可以通过 * 密钥管理 * 设置在 Partner Central 中添加和管理密钥，以增强安全性。您还可以找到对 PowerShell cmdlet 界面的支持。
+您可以通过 * 密钥管理 * 设置在 Partner Central 中添加和管理密钥，以增强安全性。
 
 
 
@@ -43,20 +43,3 @@ image:add_key_screen.png["添加密钥屏幕"]
 
 . 单击 image:eye_show_key_icon.png["显示密钥图标"] 以显示未加密密钥，然后单击 image:eye_hide_key_icon.png["隐藏密钥图标"] 以隐藏未加密密钥。
 
-
-
-
-== 下载 PowerShell
-
-.步骤
-. 在信息板中，单击 image:settings_icon.png["设置图标"]。
-. 从下拉菜单中选择 * 密钥管理 * 。
-+
-image:settings_key_management.png["设置下拉菜单键管理"]
-
-. 要下载 PowerShell ，请单击 image:download_powershell_icon.png["下载 PowerShell 图标"]。
-. 安装下载的程序。
-. 安装程序后，双击桌面上的 * SaaS Backup PowerShell* 图标以启动 PowerShell cmdlet 。
-
-
-有关使用 NetApp SaaS Backup PowerShell 模块的详细信息，请参见 link:https://fieldportal.netapp.com/content/1255854["《 NetApp SaaS Backup PowerShell 指南》（ TR-4873 ）"]。

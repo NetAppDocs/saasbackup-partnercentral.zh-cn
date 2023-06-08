@@ -157,9 +157,7 @@
   <block id="f156b97b5fa3f266e3d0a2217380feae" category="paragraph">转到 Partner Central 信息板中的 * 新增功能 * 视图，查看有关新更新，操作说明视频以及服务运行状况信息的动态。</block>
   <block id="38332dc0c3ca19f4fc3fc46728002c03" category="inline-image-macro">新增功能</block>
   <block id="4758080db72f761bca56b7d6d4576c94" category="paragraph"><block ref="4758080db72f761bca56b7d6d4576c94" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="f8ae6b0d797d8aa392d4533d9b74db73" category="summary">您可以在 Partner Central 中添加和管理密钥以增强安全性。您还可以找到对 PowerShell cmdlet 界面的支持。</block>
   <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">管理密钥</block>
-  <block id="a308e1de9050f258886ad5097b357575" category="paragraph">您可以通过 * 密钥管理 * 设置在 Partner Central 中添加和管理密钥，以增强安全性。您还可以找到对 PowerShell cmdlet 界面的支持。</block>
   <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">添加密钥</block>
   <block id="b4d957bb1de18875da8d6fb4b66fff2f" category="list-text">从下拉菜单中选择 * 密钥管理 * 。</block>
   <block id="ea77f6cd2bf52df2407b6a9a2b644151" category="inline-image-macro">设置下拉菜单键管理</block>
@@ -178,13 +176,6 @@
   <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">显示密钥图标</block>
   <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">隐藏密钥图标</block>
   <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">单击 <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> 以显示未加密密钥，然后单击 <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> 以隐藏未加密密钥。</block>
-  <block id="921a0ecfc6730a28879427fd0281ac5f" category="section-title">下载 PowerShell</block>
-  <block id="b3b38b65a04d6e1bae06123cb3d66f6f" category="inline-image-macro">下载 PowerShell 图标</block>
-  <block id="9d3e158be25c2bf7a4465ab3fad7c0d3" category="list-text">要下载 PowerShell ，请单击 <block ref="9d346df1ef229d4025c737e49a9aed10" category="inline-image-macro-rx" type="image"></block>。</block>
-  <block id="e5619dd51cac21cf148f2b484e35836d" category="list-text">安装下载的程序。</block>
-  <block id="1902fe9260b654df58d39430f970011a" category="list-text">安装程序后，双击桌面上的 * SaaS Backup PowerShell* 图标以启动 PowerShell cmdlet 。</block>
-  <block id="ca8c9c0154398e79648bcd160fc38f6b" category="inline-link-macro">《 NetApp SaaS Backup PowerShell 指南》（ TR-4873 ）</block>
-  <block id="d3ce03733dfdf43d215401ad8a54d319" category="paragraph">有关使用 NetApp SaaS Backup PowerShell 模块的详细信息，请参见 <block ref="a0f31f237eb63466a8703284d2872029" category="inline-link-macro-rx"></block>。</block>
   <block id="6ef1a425977ae7f0b4aa9807d8a6948e" category="summary">在 Partner Central 中，您可以生成许可证使用情况，存储使用情况，作业统计信息，活动，审核， 和续订。</block>
   <block id="0a20f8ab3f14dc5cfec9c5570a7bc665" category="doc">生成报告</block>
   <block id="5fa73db7f95cea2851a687a0e525bbd2" category="paragraph">在 SaaS Backup Partner Central 中，您可以生成许可证使用情况，存储使用情况，作业统计信息，活动，审核， 和续订。</block>
@@ -245,4 +236,6 @@
   <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">管理密钥</block>
   <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">如何获取帮助和查找信息</block>
   <block id="492e5546e60705134bff8d7f80511a8d" category="section-title">了解新增功能</block>
+  <block id="adb037296ec5890668582b7d941e31a7" category="summary">您可以在 Partner Central 中添加和管理密钥以增强安全性。</block>
+  <block id="c56e63c2fd8bbde29916a0445162e4b2" category="paragraph">您可以通过 * 密钥管理 * 设置在 Partner Central 中添加和管理密钥，以增强安全性。</block>
 </blocks>
